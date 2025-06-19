@@ -1,5 +1,4 @@
-socket
 requests
-ipaddress
 python-whois
 dnspython
+ipaddress
