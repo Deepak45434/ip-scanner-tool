@@ -15,5 +15,5 @@ A Python tool for scanning IP addresses, gathering information (including domain
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/ip-scanner-tool.git
+   git clone https://github.com/deepak45434/ip-scanner-tool.git
    cd ip-scanner-tool
